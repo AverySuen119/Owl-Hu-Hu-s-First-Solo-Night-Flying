@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Owl Hu Hu's first solo night flying.unity
+    guid: f11f39d360971c34199018fc2536e603
+  - enabled: 1
+    path: Assets/Home.unity
+    guid: 67a06f05633636d4a9aaf52d6b2415d1
+  - enabled: 1
+    path: Assets/Page1.unity
+    guid: 6a392d5e455207c46880547f23b3e6b4
+  - enabled: 1
+    path: Assets/Page2.unity
+    guid: 6ba8e1fa9725ee642acd06d90738ed23
+  - enabled: 1
+    path: Assets/Page3.unity
+    guid: fc2d3dc9b6410be48b4647b5bba2505d
+  - enabled: 1
+    path: Assets/Page4.unity
+    guid: 66ef62f60a5d16941865c44e1f171549
+  - enabled: 1
+    path: Assets/End page.unity
+    guid: 1edbc90038479534db26b45db538de64
+  m_configObjects: {}
